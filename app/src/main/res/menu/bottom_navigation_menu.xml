@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/snapshot_add"
+        android:enabled="true"
+        android:title="추가하기"/>
+
+    <item
+        android:id="@+id/snapshot_restore"
+        android:enabled="true"
+        android:title="불러오기"/>
+</menu>

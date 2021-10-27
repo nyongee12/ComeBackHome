@@ -1,4 +1,4 @@
-package com.example.room.mvvm
+package com.example.room.comebackhome
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
